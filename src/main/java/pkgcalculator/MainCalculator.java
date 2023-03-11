@@ -13,9 +13,9 @@ public class MainCalculator {
 		}else {
 			System.out.println("Failed");
 		}
-		int resultAddition=objscientificCalculator.addition(12, 12);
+		int resultAddition=objscientificCalculator.addition(12, 13);
 		
-		if(resultAddition==24){
+		if(resultAddition==25){
 			System.out.println("Passed");
 		}else {
 			System.out.println("Failed");
